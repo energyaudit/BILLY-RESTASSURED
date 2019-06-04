@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AllTestsSuite">
+    <!--<test name="all-packages">-->
+        <!--<packages>-->
+            <!--<package name=".*" />-->
+         <!--</packages>-->
+    <!--</test>-->
+    <test name="My First Selenium TestNG Test">
+        <classes>
+            <class name="TestNG.FirstTest"/>
+        </classes>
+    </test>
+    <test name="ToolsQA">
+        <parameter name="searchKey" value="TESTng" />
+        <classes>
+          <class name="TestNG.DataProvider" />
+        </classes>
+
+    </test>
+</suite>
