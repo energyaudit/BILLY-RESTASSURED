@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="353b7e4f-bd12-4db3-b427-bc0001eae280" name="Default Changelist" comment="" />
+    <list default="true" id="353b7e4f-bd12-4db3-b427-bc0001eae280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaExample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaExample/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +24,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaExample/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+            <state relative-caret-position="181">
+              <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -41,12 +46,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>com.google</find>
+      <find>org.springframework</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/JavaExample/src/main/java/RestAssured/ApiTestNGPostBonus.java" />
+        <option value="$PROJECT_DIR$/JavaExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Web/pom.xml" />
       </list>
     </option>
   </component>
@@ -57,16 +68,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
-    <option name="y" value="71" />
+    <option name="x" value="304" />
+    <option name="y" value="-835" />
     <option name="width" value="1345" />
     <option name="height" value="710" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,64 +96,16 @@
             <path>
               <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -171,9 +137,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="71" width="1345" height="710" extended-state="0" />
+    <frame x="304" y="-835" width="1345" height="710" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23867998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24251726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,9 +177,6 @@
     <entry file="file://$PROJECT_DIR$/JavaExample/src/main/java/RestAssured/ApiTestNGPostBonus.java" />
     <entry file="file://$PROJECT_DIR$/JavaExample/src/main/java/util/GetDataJPath.java" />
     <entry file="file://$PROJECT_DIR$/JavaExample/src/main/java/util/OutPutResult.java" />
-    <entry file="file://$PROJECT_DIR$/JavaExample/demo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaExample/src/main/util/TestCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -222,8 +186,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaExample/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        <state relative-caret-position="416">
+          <caret line="141" column="26" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaExample/demo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
         </state>
       </provider>
     </entry>
