@@ -1,69 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="0.041" tests="15" errors="0" skipped="0" failures="7">
+<testsuite name="TestSuite" time="0.107" tests="15" errors="0" skipped="0" failures="7">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="java.vm.version" value="10.0.2+13"/>
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib"/>
-    <property name="gopherProxySet" value="false"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/hchoudhari/Documents/Study/HTMLProjects/100k/assignments/fox /FoxApiTestingTest/RestassuredAPITesting_Employee_Project"/>
-    <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
-    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.version" value="11.0.7+8-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.7\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\Billy Yang\github\BILLY-RESTASSURED\RestassuredAPITesting_FOX_Project"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="path.separator" value=":"/>
+    <property name="path.separator" value=";"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="user.script" value=""/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/hchoudhari/Documents/Study/HTMLProjects/100k/assignments/fox /FoxApiTestingTest/RestassuredAPITesting_Employee_Project"/>
+    <property name="user.dir" value="E:\Billy Yang\github\BILLY-RESTASSURED\RestassuredAPITesting_FOX_Project"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
-    <property name="java.runtime.version" value="10.0.2+13"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="os.arch" value="x86_64"/>
-    <property name="java.io.tmpdir" value="/var/folders/kn/l7kpvxcd5112y59vjsz9d0_4_pcy_v/T/"/>
+    <property name="java.runtime.version" value="11.0.7+8-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\user\AppData\Local\Temp\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/hchoudhari/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf15485233967860265006.tmp"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/Users/hchoudhari/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-11.0.7\bin;E:\Billy Yang\DRIVER\groovy-2.5.8\bin;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;E:\Billy Yang\QA INSTALL\apache-maven-3.6.3\bin;E:\Billy Yang\QA INSTALL\curl-7.69.1-win64-mingw\bin;C:\Program Files\7-Zip\;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;C:\Program Files\PostgreSQL\13\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.4\bin;C:\Users\user\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;C:\Program Files\Docker Toolbox;C:\Users\user\AppData\Local\atom\bin;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven3/conf"/>
     <property name="jdk.debug" value="release"/>
-    <property name="java.class.version" value="54.0"/>
+    <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.15"/>
-    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="user.home" value="/Users/hchoudhari"/>
-    <property name="user.timezone" value="America/Los_Angeles"/>
-    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\user"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="file.encoding" value="UTF-8"/>
-    <property name="java.specification.version" value="10"/>
-    <property name="user.name" value="hchoudhari"/>
-    <property name="java.class.path" value="/Users/hchoudhari/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.12.0.20190529-1915/jars/plexus-classworlds-2.6.0.jar"/>
-    <property name="java.vm.specification.version" value="10"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="user"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2020.1.4 test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.7"/>
+    <property name="idea.version2020.1.4" value="true"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="10.0.2"/>
+    <property name="java.version" value="11.0.7"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="/Users/hchoudhari/Documents/Study/HTMLProjects/100k/assignments/fox /FoxApiTestingTest/RestassuredAPITesting_Employee_Project/EMBEDDED"/>
-    <property name="file.separator" value="/"/>
-    <property name="java.version.date" value="2018-07-17"/>
-    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="java.vendor.version" value="18.3"/>
-    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="sun.cpu.isalist" value=""/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="checkContentType" classname="com.foxapi.testCases.TC001_REG_user" time="0.013"/>
-  <testcase name="checkResposeBody" classname="com.foxapi.testCases.TC001_REG_user" time="0.014">
+  <testcase name="checkContentType" classname="com.foxapi.testCases.TC001_REG_user" time="0.053"/>
+  <testcase name="checkResposeBody" classname="com.foxapi.testCases.TC001_REG_user" time="0.018">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -76,7 +77,7 @@
     <system-out><![CDATA[responseBody is :{"message":"Forbidden"}
 ]]></system-out>
   </testcase>
-  <testcase name="checkStatusCode" classname="com.foxapi.testCases.TC001_REG_user" time="0.001">
+  <testcase name="checkStatusCode" classname="com.foxapi.testCases.TC001_REG_user" time="0.006">
     <failure message="expected [200] but found [403]" type="java.lang.AssertionError">java.lang.AssertionError: expected [200] but found [403]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -87,7 +88,7 @@
 	at com.foxapi.testCases.TC001_REG_user.checkStatusCode(TC001_REG_user.java:107)
 </failure>
   </testcase>
-  <testcase name="checkcontentEncoding" classname="com.foxapi.testCases.TC001_REG_user" time="0.001">
+  <testcase name="checkcontentEncoding" classname="com.foxapi.testCases.TC001_REG_user" time="0">
     <failure message="expected [gzip] but found [null]" type="java.lang.AssertionError">java.lang.AssertionError: expected [gzip] but found [null]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -98,7 +99,7 @@
 	at com.foxapi.testCases.TC001_REG_user.checkcontentEncoding(TC001_REG_user.java:129)
 </failure>
   </testcase>
-  <testcase name="checkstatusLine" classname="com.foxapi.testCases.TC001_REG_user" time="0.001">
+  <testcase name="checkstatusLine" classname="com.foxapi.testCases.TC001_REG_user" time="0">
     <failure message="expected [HTTP/1.1 200 OK] but found [HTTP/1.1 403 Forbidden]" type="java.lang.AssertionError">java.lang.AssertionError: expected [HTTP/1.1 200 OK] but found [HTTP/1.1 403 Forbidden]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -110,8 +111,8 @@
 </failure>
   </testcase>
   <testcase name="checkContentType" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.001"/>
-  <testcase name="checkResponseTime" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.001"/>
-  <testcase name="checkResposeBody" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.002">
+  <testcase name="checkResponseTime" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.002"/>
+  <testcase name="checkResposeBody" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.005">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -122,7 +123,7 @@
 	at com.foxapi.testCases.TC002_LOGIN_user.checkResposeBody(TC002_LOGIN_user.java:82)
 </failure>
   </testcase>
-  <testcase name="checkStatusCode" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.001">
+  <testcase name="checkStatusCode" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.003">
     <failure message="expected [200] but found [403]" type="java.lang.AssertionError">java.lang.AssertionError: expected [200] but found [403]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -133,7 +134,7 @@
 	at com.foxapi.testCases.TC002_LOGIN_user.checkStatusCode(TC002_LOGIN_user.java:90)
 </failure>
   </testcase>
-  <testcase name="checkstatusLine" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.001">
+  <testcase name="checkstatusLine" classname="com.foxapi.testCases.TC002_LOGIN_user" time="0.003">
     <failure message="expected [HTTP/1.1 200 OK] but found [HTTP/1.1 403 Forbidden]" type="java.lang.AssertionError">java.lang.AssertionError: expected [HTTP/1.1 200 OK] but found [HTTP/1.1 403 Forbidden]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -146,7 +147,7 @@
   </testcase>
   <testcase name="checkContentType" classname="com.foxapi.testCases.TC003_RESET_password" time="0.001"/>
   <testcase name="checkResponseTime" classname="com.foxapi.testCases.TC003_RESET_password" time="0.001"/>
-  <testcase name="checkResposeBody" classname="com.foxapi.testCases.TC003_RESET_password" time="0.001"/>
+  <testcase name="checkResposeBody" classname="com.foxapi.testCases.TC003_RESET_password" time="0"/>
   <testcase name="checkStatusCode" classname="com.foxapi.testCases.TC003_RESET_password" time="0.002"/>
-  <testcase name="checkstatusLine" classname="com.foxapi.testCases.TC003_RESET_password" time="0"/>
+  <testcase name="checkstatusLine" classname="com.foxapi.testCases.TC003_RESET_password" time="0.012"/>
 </testsuite>
