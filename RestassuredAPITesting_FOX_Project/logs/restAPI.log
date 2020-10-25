@@ -592,3 +592,15 @@
 2020-10-10 21:40:20 INFO  Fox API:123 - *********  Finished TC002_LOGIN_user  **********
 2020-10-10 21:40:20 INFO  Fox API:53 - ********* Started TC003_RESET_password **********
 2020-10-10 21:40:27 INFO  Fox API:125 - *********  Finished TC003_RESET_password  **********
+2020-10-25 18:52:24 INFO  Fox API:63 - ********* Started TC001_REG_user  **********
+2020-10-25 18:52:35 INFO  Fox API:136 - *********  Finished C001_REG_user **********
+2020-10-25 18:52:35 INFO  Fox API:53 - ********* Started TC002_LOGIN_user **********
+2020-10-25 18:52:43 INFO  Fox API:123 - *********  Finished TC002_LOGIN_user  **********
+2020-10-25 18:52:43 INFO  Fox API:53 - ********* Started TC003_RESET_password **********
+2020-10-25 18:52:55 INFO  Fox API:125 - *********  Finished TC003_RESET_password  **********
+2020-10-25 18:54:01 INFO  Fox API:63 - ********* Started TC001_REG_user  **********
+2020-10-25 18:54:10 INFO  Fox API:136 - *********  Finished C001_REG_user **********
+2020-10-25 18:54:10 INFO  Fox API:53 - ********* Started TC002_LOGIN_user **********
+2020-10-25 18:54:18 INFO  Fox API:123 - *********  Finished TC002_LOGIN_user  **********
+2020-10-25 18:54:18 INFO  Fox API:53 - ********* Started TC003_RESET_password **********
+2020-10-25 18:54:27 INFO  Fox API:125 - *********  Finished TC003_RESET_password  **********
