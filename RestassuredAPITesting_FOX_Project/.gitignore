@@ -1,0 +1,17 @@
+/target/
+
+#.idea
+.idea/workspace.xml
+.idea/*.*
+.idea
+.metadata
+
+#screenshots
+/src/main/screenshot
+FailedTestsScreenshots/
+
+# other branch
+../CommanderN/
+
+#chormeDriver
+src/main/resources/chromedriver.exe
