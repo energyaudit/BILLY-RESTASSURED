@@ -16,13 +16,6 @@
 - Click on Open
 - Click Finish
 
-Note: Once you Imported the project in eclipse Make sure the project directory is there. 
-
-See Example below: This is the folder structure . 
-
-
-
-[![folder Structure eclipse ](https://i.postimg.cc/nLCVHS0W/Screen-Shot-2019-11-21-at-9-47-41-AM.png "folder Structure eclipse ")](https://i.postimg.cc/nLCVHS0W/Screen-Shot-2019-11-21-at-9-47-41-AM.png "folder Structure eclipse ")
 
 
 **Note:**
@@ -72,8 +65,6 @@ Select Run As >  TestNG Suite
 - Right click index.html > Open With WebBrowser
 - This will open the index.html in WebBrowser and it will show the entire test suite report
 
-**File shared:**
-https://drive.google.com/file/d/1Tddrl0UNO90Hai1zS5U4hKu3paWN-9Iy/view?usp=sharing
 
 
 **Note:**
