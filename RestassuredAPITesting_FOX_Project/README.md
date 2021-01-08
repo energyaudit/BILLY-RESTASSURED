@@ -38,6 +38,7 @@ Each Test Class has multiple test cases created . Also I have added comments in 
 
 - Right click on pom.xml file in the project directory level
 - Select Run As > 6.Maven Test
+-or double click the test in maven in intellij
 
 *Note: Now your test suit is running. It will log all the success or errors on the eclipse console*
 
